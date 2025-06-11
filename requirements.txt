@@ -6,3 +6,4 @@ azure.data.tables
 azure.storage.blob
 pathlib>=1.0.1
 python-dotenv>=1.0.1
+geopandas>=0.10.2
